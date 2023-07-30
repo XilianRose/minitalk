@@ -6,7 +6,7 @@
 /*   By: mstegema <mstegema@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2023/07/27 13:58:24 by mstegema      #+#    #+#                 */
-/*   Updated: 2023/07/27 14:12:40 by mstegema      ########   odam.nl         */
+/*   Updated: 2023/07/30 15:59:19 by mstegema      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,7 +20,5 @@
 // client
 
 // server
-
-// utils
 
 #endif
